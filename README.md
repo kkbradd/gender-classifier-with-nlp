@@ -11,7 +11,6 @@ This project aims to classify gender based on textual descriptions using machine
 - [Evaluation](#evaluation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 The goal of this project is to build a machine learning model that can predict the gender of individuals based on their textual descriptions. It involves text preprocessing, feature engineering, model training, and evaluation.
